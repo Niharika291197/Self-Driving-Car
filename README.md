@@ -16,8 +16,6 @@ To visualize training using Tensorboard use `tensorboard --logdir=./logs`, then 
 ### Demo 
 <img src="demo.gif">
 
-- Credits: https://github.com/SullyChen/Autopilot-TensorFlow
-- Research paper: End to End Learning for Self-Driving Cars by Nvidia. [https://arxiv.org/pdf/1604.07316.pdf]
 
 - NVidia dataset: 72 hrs of video => 72*60*60*30 = 7,776,000 images
 - Nvidia blog: https://devblogs.nvidia.com/deep-learning-self-driving-cars/
